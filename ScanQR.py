@@ -41,7 +41,7 @@ while True:
     choice = input(f"\n{input_prompt_color}Buat QR Code lagi? (Y/n): {reset_color}")
     if choice.lower() != 'y':
         clear_screen()
-        print(f"{author_color}Terima kasih telah menggunakan skrip ini!\nJangan lupa follow Instagram kami @_4lghifari_ ^_^{reset_color}")
+        print(f"{author_color}Terima kasih telah menggunakan script ini!\nJangan lupa follow Instagram  @_4lghifari_ ^_^{reset_color}")
         break
     clear_screen()
     print(logo)
